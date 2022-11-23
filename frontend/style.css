@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+}
+
+div {
+    margin-top: 35px;
+    text-align: center;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p {
+    font-size: 10em;
+}
+
+button {
+    width: 50%;
+    height: 300px;
+    font-size: 10em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    text-align: center;
+    background-color: #555555;
+    border-width: 8px;
+}
